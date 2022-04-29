@@ -29,7 +29,7 @@ I do hope you'd look at me favorably.👍
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/>  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ### :pencil2:Algorithm Study
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oho1115)](https://solved.ac/oho1115/)                     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin5212&layout=compact&theme=highcontrast)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oho1115)](https://solved.ac/oho1115/)\t\t\t![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin5212&layout=compact&theme=highcontrast)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin5212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
